@@ -141,3 +141,5 @@ plt.show()
 ![image](https://github.com/R-Udayakumar/Ex-08-Data-Visualization-/assets/118708024/3d75ec02-f25e-419d-88b7-6f451024a119)
 # v
 ![image](https://github.com/R-Udayakumar/Ex-08-Data-Visualization-/assets/118708024/8490a297-3523-42ad-974d-a54e626d17df)
+# RESULT
+Thus the data visulation process is successfully performed.
