@@ -19,6 +19,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 # CODE
 ```python
+# Developed by Udayakumar R
+# Reg no: 212222230163
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
